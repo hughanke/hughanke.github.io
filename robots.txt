@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hughanke.github.io/sitemap.html.gz
+Sitemap: https://hughanke.github.io/app/sitemap.html.gz
+Sitemap: https://hughanke.github.io/assets/sitemap.html.gz
+Sitemap: https://hughanke.github.io/css/sitemap.html.gz
+Sitemap: https://hughanke.github.io/data/sitemap.html.gz
+Sitemap: https://hughanke.github.io/includes/sitemap.html.gz
+Sitemap: https://hughanke.github.io/item/sitemap.html.gz
+Sitemap: https://hughanke.github.io/src/sitemap.html.gz
